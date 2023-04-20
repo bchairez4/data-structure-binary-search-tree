@@ -1,7 +1,6 @@
 /*****************************************************************************
 *    Brian Chairez                                                           *
 *    Goal: Implementation of Binary Search Tree using dynamic nodes          *
-*    Progess: Basic implementation and methods complete                      *
 *****************************************************************************/
 
 #ifndef BINARYSEARCHTREE_H
